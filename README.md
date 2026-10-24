@@ -1,0 +1,3 @@
+EcoSight is an AI-powered energy monitoring and prediction platform developed to help organisations like data centres and large buildings monitor energy consumption, forecast future demand and reduce carbon emissions by suggesting the best time to run flexible jobs/task. 
+The system integrates multiple artificial intelligence techniques, including forecasting, clustering, evolutionary algorithm, explainable AI and reinforcement learning within a single Streamlit dashboard. Through an interactive dashboard, users can explore demand forecasts and generate the best schedule for flexible workloads. 
+The platform offers explainability feature which help users understand the model’s decisions and generate reports.
